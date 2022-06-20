@@ -6,10 +6,4 @@ b branch z = 1
  
 x+Y+Z = 13
 
-master = 13
 
-
-
-
-
-heloo---wait total = 10000
