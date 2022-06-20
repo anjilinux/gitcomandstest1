@@ -6,8 +6,5 @@ b branch z = 1
  
 x+Y+Z = 13
 
-master = 14
 
-
-a
 
